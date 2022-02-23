@@ -1,0 +1,43 @@
+  body{
+    color:aqua;
+  }
+h1{
+  font-size:50px;
+}
+
+  .heading
+  {
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color:chocolate;
+  }
+
+ 
+
+  .copy_right_footer{
+    position:absolute;
+    top:3580px;
+    color:white;
+    width:100%;
+    background-color:royalblue;
+    line-height:3;
+    text-align:center;
+    font-size:15px;
+  }
+  canvas{
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top:300px;
+  }
+img{
+  border:2px solid firebrick;
+  border-radius:25px;
+}
+.test_image_and_result{
+  margin-top:50px;
+}
+ 
+ 
